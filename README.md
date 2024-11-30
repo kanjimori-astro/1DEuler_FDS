@@ -19,7 +19,7 @@ where $$|A|_ {j+1/2}=R_{j+1/2}|\Lambda|_ {j+1/2}R^{-1}_{j+1/2}$$, $$\Lambda$$ is
 # Test
 
 I solve the Sod shock tube as a test problem. The spatial grid number is 500 and Courant number is 0.2.
-![FDS](https://github.com/user-attachments/assets/06bd66f2-08bd-4ca6-bb17-f09cd1fee847)
+![FDS](https://github.com/user-attachments/assets/7abc0c38-bdff-45b2-80a5-01057d4f1349)
 
 # References
 [1] 藤井孝藏 (1994), 『流体力学の数値計算法』, 東京大学出版会.
