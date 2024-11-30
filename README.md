@@ -24,4 +24,5 @@ I solve the Sod shock tube [2] as a test problem. The spatial grid number is 500
 
 # References
 [1] 藤井孝藏 (1994), 『流体力学の数値計算法』, 東京大学出版会.
+
 [2] Sod, J. Comput. Phys. 27, 1 (1978).
