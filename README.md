@@ -4,7 +4,7 @@ The code solves the 1D Euler equations with the flux difference splitting method
 # Introduction
 One-dimensional compressible flow is described by the Euler equation
 
-$$\frac{\partial Q}{\partial t}+\frac{\partial E}{\partial t}=0,$$
+$$\frac{\partial Q}{\partial t}+\frac{\partial E}{\partial x}=0,$$
 
 where the $$Q=(\rho, \rho u, e)^T$$ is the conserved variables and $$E=(\rho u, p+\rho u^2, (e+p)u)^T$$ is the flux. The time evolution of the equation can be determined as
 
