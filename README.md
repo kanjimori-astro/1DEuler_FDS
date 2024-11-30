@@ -12,7 +12,7 @@ $$Q^{n+1}_j=Q^n_j\frac{\Delta t}{\Delta x}(\tilde{E}^n_{j+1/2)-\tilde{E}^n_{j-1/
 
 where $$\tilde{E}^n_{j+1/2)$$ is the numerical flux. In the flux difference splitting method [1], the numerical flux is given by
 
-$$\tilde{E}^n_{j+1/2)=\frac{1}{2}(E_{j+1}+E_j}-|A|_ {j+1/2}(Q_{j+1}-Q_j)),$$
+$$\tilde{E}^n_{j+1/2}=\frac{1}{2}(E_{j+1}+E_j}-|A|_ {j+1/2}(Q_{j+1}-Q_j)),$$
 
 where $$|A|_ {j+1/2}=R_{j+1/2}|\Lambda|_ {j+1/2}R^{-1}_{j+1/2}$$, $$\Lambda$$ is the diagonalized flux Jacobian matrix, and $R$ is defined in Section 5.3 in Ref. [2]. The quantities at the cell edges are estimated with Roe's average [3].
 
